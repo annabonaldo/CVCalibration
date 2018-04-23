@@ -1,0 +1,20 @@
+%YAML:1.0
+---
+intrinsic: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1.2357554340490988e+03, 0., 9.8800408401767595e+02, 0.,
+       1.2360832842814532e+03, 6.7683263113693226e+02, 0., 0., 1. ]
+distCoeffs: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ -3.0730253138537572e-01, 1.6256479748807282e-01,
+       3.0035301606402397e-04, 1.8804219823318283e-04,
+       -6.6557220701069772e-02 ]
+Mean reprojection error: 8.7581588945817648e-02
+file error: "file name: ..\\data\\dataset1\\0040_color.png - error: 0.039422"
+file error: "file name: ..\\data\\dataset1\\0036_color.png - error: 0.063262"
+file error: "file name: ..\\data\\dataset1\\0037_color.png - error: 0.068451"
+file error: "file name: ..\\data\\dataset1\\0056_color.png - error: 0.142970"

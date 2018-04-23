@@ -1,0 +1,73 @@
+%YAML:1.0
+---
+intrinsic: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1.2455481804266901e+03, 0., 9.7966111447508354e+02, 0.,
+       1.2458530978009987e+03, 6.8252043154404123e+02, 0., 0., 1. ]
+distCoeffs: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ -3.0581916420278699e-01, 1.3449002271234486e-01,
+       1.4783666202913975e-07, -8.0921991330907045e-05,
+       -3.4148032144915179e-02 ]
+Mean reprojection error: 3.7213759806679131e-01
+file error: "file name: ..\\data\\dataset1\\0056_color.png - error: 0.052493"
+file error: "file name: ..\\data\\dataset1\\0037_color.png - error: 0.052829"
+file error: "file name: ..\\data\\dataset1\\0040_color.png - error: 0.062281"
+file error: "file name: ..\\data\\dataset1\\0036_color.png - error: 0.062699"
+file error: "file name: ..\\data\\dataset1\\0032_color.png - error: 0.063772"
+file error: "file name: ..\\data\\dataset1\\0038_color.png - error: 0.065900"
+file error: "file name: ..\\data\\dataset1\\0001_color.png - error: 0.066815"
+file error: "file name: ..\\data\\dataset1\\0034_color.png - error: 0.069055"
+file error: "file name: ..\\data\\dataset1\\0006_color.png - error: 0.069787"
+file error: "file name: ..\\data\\dataset1\\0004_color.png - error: 0.072594"
+file error: "file name: ..\\data\\dataset1\\0035_color.png - error: 0.073209"
+file error: "file name: ..\\data\\dataset1\\0007_color.png - error: 0.075004"
+file error: "file name: ..\\data\\dataset1\\0041_color.png - error: 0.075227"
+file error: "file name: ..\\data\\dataset1\\0039_color.png - error: 0.076204"
+file error: "file name: ..\\data\\dataset1\\0033_color.png - error: 0.076293"
+file error: "file name: ..\\data\\dataset1\\0005_color.png - error: 0.078952"
+file error: "file name: ..\\data\\dataset1\\0031_color.png - error: 0.079277"
+file error: "file name: ..\\data\\dataset1\\0042_color.png - error: 0.080396"
+file error: "file name: ..\\data\\dataset1\\0057_color.png - error: 0.084144"
+file error: "file name: ..\\data\\dataset1\\0003_color.png - error: 0.089662"
+file error: "file name: ..\\data\\dataset1\\0002_color.png - error: 0.094301"
+file error: "file name: ..\\data\\dataset1\\0043_color.png - error: 0.095241"
+file error: "file name: ..\\data\\dataset1\\0010_color.png - error: 0.097281"
+file error: "file name: ..\\data\\dataset1\\0008_color.png - error: 0.099427"
+file error: "file name: ..\\data\\dataset1\\0030_color.png - error: 0.101880"
+file error: "file name: ..\\data\\dataset1\\0045_color.png - error: 0.109751"
+file error: "file name: ..\\data\\dataset1\\0029_color.png - error: 0.113456"
+file error: "file name: ..\\data\\dataset1\\0050_color.png - error: 0.114781"
+file error: "file name: ..\\data\\dataset1\\0012_color.png - error: 0.116068"
+file error: "file name: ..\\data\\dataset1\\0011_color.png - error: 0.117121"
+file error: "file name: ..\\data\\dataset1\\0046_color.png - error: 0.119488"
+file error: "file name: ..\\data\\dataset1\\0015_color.png - error: 0.135922"
+file error: "file name: ..\\data\\dataset1\\0018_color.png - error: 0.147362"
+file error: "file name: ..\\data\\dataset1\\0055_color.png - error: 0.147851"
+file error: "file name: ..\\data\\dataset1\\0051_color.png - error: 0.148402"
+file error: "file name: ..\\data\\dataset1\\0047_color.png - error: 0.157035"
+file error: "file name: ..\\data\\dataset1\\0024_color.png - error: 0.158082"
+file error: "file name: ..\\data\\dataset1\\0026_color.png - error: 0.158606"
+file error: "file name: ..\\data\\dataset1\\0013_color.png - error: 0.159967"
+file error: "file name: ..\\data\\dataset1\\0054_color.png - error: 0.160649"
+file error: "file name: ..\\data\\dataset1\\0014_color.png - error: 0.165010"
+file error: "file name: ..\\data\\dataset1\\0023_color.png - error: 0.171156"
+file error: "file name: ..\\data\\dataset1\\0049_color.png - error: 0.174474"
+file error: "file name: ..\\data\\dataset1\\0048_color.png - error: 0.175571"
+file error: "file name: ..\\data\\dataset1\\0020_color.png - error: 0.176296"
+file error: "file name: ..\\data\\dataset1\\0052_color.png - error: 0.179847"
+file error: "file name: ..\\data\\dataset1\\0025_color.png - error: 0.193002"
+file error: "file name: ..\\data\\dataset1\\0021_color.png - error: 0.197542"
+file error: "file name: ..\\data\\dataset1\\0053_color.png - error: 0.210422"
+file error: "file name: ..\\data\\dataset1\\0044_color.png - error: 0.226373"
+file error: "file name: ..\\data\\dataset1\\0019_color.png - error: 0.241135"
+file error: "file name: ..\\data\\dataset1\\0028_color.png - error: 0.246411"
+file error: "file name: ..\\data\\dataset1\\0022_color.png - error: 0.249927"
+file error: "file name: ..\\data\\dataset1\\0017_color.png - error: 0.311708"
+file error: "file name: ..\\data\\dataset1\\0016_color.png - error: 0.372692"
+file error: "file name: ..\\data\\dataset1\\0009_color.png - error: 0.374408"
+file error: "file name: ..\\data\\dataset1\\0027_color.png - error: 2.557754"

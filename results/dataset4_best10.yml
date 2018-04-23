@@ -1,0 +1,26 @@
+%YAML:1.0
+---
+intrinsic: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.2176511598928682e+03, 0., 3.0973603862564323e+03, 0.,
+       9.2456015250424116e+03, 1.9693497042777649e+03, 0., 0., 1. ]
+distCoeffs: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ -1.4302461716435466e-01, 3.7693235512950385e-01,
+       -2.3684399913240648e-05, 2.8344887785864319e-03,
+       -3.4088984534439812e+00 ]
+Mean reprojection error: 5.9731794561792095e-01
+file error: "file name: ..\\data\\dataset4\\112.JPG - error: 0.316773"
+file error: "file name: ..\\data\\dataset4\\117.JPG - error: 0.355456"
+file error: "file name: ..\\data\\dataset4\\101.JPG - error: 0.588128"
+file error: "file name: ..\\data\\dataset4\\109.JPG - error: 0.588128"
+file error: "file name: ..\\data\\dataset4\\107.JPG - error: 0.599548"
+file error: "file name: ..\\data\\dataset4\\113.JPG - error: 0.599548"
+file error: "file name: ..\\data\\dataset4\\106.JPG - error: 0.601911"
+file error: "file name: ..\\data\\dataset4\\114.JPG - error: 0.601911"
+file error: "file name: ..\\data\\dataset4\\111.JPG - error: 0.769603"
+file error: "file name: ..\\data\\dataset4\\119.JPG - error: 0.783331"

@@ -1,0 +1,26 @@
+%YAML:1.0
+---
+intrinsic: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 5.3475162287694525e+02, 0., 3.4143335266573320e+02, 0.,
+       5.3495898063444133e+02, 2.3363582382383100e+02, 0., 0., 1. ]
+distCoeffs: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ -2.9651848472634157e-01, 1.1378566489002655e-01,
+       1.4460041825757582e-03, 2.8386121603712867e-04,
+       4.7682044237846354e-02 ]
+Mean reprojection error: 1.5485027303091520e-01
+file error: "file name: ..\\data\\dataset2\\102.jpg - error: 0.116947"
+file error: "file name: ..\\data\\dataset2\\107.jpg - error: 0.133671"
+file error: "file name: ..\\data\\dataset2\\106.jpg - error: 0.133834"
+file error: "file name: ..\\data\\dataset2\\105.jpg - error: 0.140078"
+file error: "file name: ..\\data\\dataset2\\103.jpg - error: 0.140160"
+file error: "file name: ..\\data\\dataset2\\110.jpg - error: 0.143225"
+file error: "file name: ..\\data\\dataset2\\101.jpg - error: 0.171901"
+file error: "file name: ..\\data\\dataset2\\104.jpg - error: 0.172926"
+file error: "file name: ..\\data\\dataset2\\109.jpg - error: 0.173617"
+file error: "file name: ..\\data\\dataset2\\108.jpg - error: 0.202370"

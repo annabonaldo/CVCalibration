@@ -1,0 +1,37 @@
+%YAML:1.0
+---
+intrinsic: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.3021590257044245e+03, 0., 3.0409224141969835e+03, 0.,
+       9.3270530404616711e+03, 1.9487029439734858e+03, 0., 0., 1. ]
+distCoeffs: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ -1.8804472948469306e-01, 1.8190806392861303e+00,
+       1.4596690202204521e-03, 2.1838138127271501e-03,
+       -1.7596181202704660e+01 ]
+Mean reprojection error: 9.7356196584354171e-01
+file error: "file name: ..\\data\\dataset4\\112.JPG - error: 0.317676"
+file error: "file name: ..\\data\\dataset4\\117.JPG - error: 0.345837"
+file error: "file name: ..\\data\\dataset4\\107.JPG - error: 0.584102"
+file error: "file name: ..\\data\\dataset4\\113.JPG - error: 0.584102"
+file error: "file name: ..\\data\\dataset4\\106.JPG - error: 0.600055"
+file error: "file name: ..\\data\\dataset4\\114.JPG - error: 0.600055"
+file error: "file name: ..\\data\\dataset4\\101.JPG - error: 0.730070"
+file error: "file name: ..\\data\\dataset4\\109.JPG - error: 0.730070"
+file error: "file name: ..\\data\\dataset4\\111.JPG - error: 0.816260"
+file error: "file name: ..\\data\\dataset4\\119.JPG - error: 0.843744"
+file error: "file name: ..\\data\\dataset4\\104.JPG - error: 0.900599"
+file error: "file name: ..\\data\\dataset4\\105.JPG - error: 0.900599"
+file error: "file name: ..\\data\\dataset4\\115.JPG - error: 0.900599"
+file error: "file name: ..\\data\\dataset4\\103.JPG - error: 0.918273"
+file error: "file name: ..\\data\\dataset4\\116.JPG - error: 0.918273"
+file error: "file name: ..\\data\\dataset4\\120.JPG - error: 0.934773"
+file error: "file name: ..\\data\\dataset4\\102.JPG - error: 0.965826"
+file error: "file name: ..\\data\\dataset4\\110.JPG - error: 0.965826"
+file error: "file name: ..\\data\\dataset4\\108.JPG - error: 1.217113"
+file error: "file name: ..\\data\\dataset4\\121.JPG - error: 1.759953"
+file error: "file name: ..\\data\\dataset4\\118.JPG - error: 2.097418"

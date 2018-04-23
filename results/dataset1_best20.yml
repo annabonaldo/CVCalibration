@@ -1,0 +1,35 @@
+%YAML:1.0
+---
+intrinsic: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1.2493885777081459e+03, 0., 9.8606201955329959e+02, 0.,
+       1.2491219455375415e+03, 6.8059502277012155e+02, 0., 0., 1. ]
+distCoeffs: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ -3.1627290652756090e-01, 1.6830103171673358e-01,
+       8.8356210126697230e-05, -6.8696934692272468e-05,
+       -6.6316629817502762e-02 ]
+Mean reprojection error: 6.9128289794538333e-02
+file error: "file name: ..\\data\\dataset1\\0001_color.png - error: 0.042561"
+file error: "file name: ..\\data\\dataset1\\0032_color.png - error: 0.048157"
+file error: "file name: ..\\data\\dataset1\\0040_color.png - error: 0.048245"
+file error: "file name: ..\\data\\dataset1\\0042_color.png - error: 0.049779"
+file error: "file name: ..\\data\\dataset1\\0034_color.png - error: 0.055677"
+file error: "file name: ..\\data\\dataset1\\0057_color.png - error: 0.055930"
+file error: "file name: ..\\data\\dataset1\\0006_color.png - error: 0.058044"
+file error: "file name: ..\\data\\dataset1\\0007_color.png - error: 0.060170"
+file error: "file name: ..\\data\\dataset1\\0041_color.png - error: 0.062848"
+file error: "file name: ..\\data\\dataset1\\0036_color.png - error: 0.064026"
+file error: "file name: ..\\data\\dataset1\\0039_color.png - error: 0.064748"
+file error: "file name: ..\\data\\dataset1\\0033_color.png - error: 0.064923"
+file error: "file name: ..\\data\\dataset1\\0005_color.png - error: 0.065677"
+file error: "file name: ..\\data\\dataset1\\0004_color.png - error: 0.068026"
+file error: "file name: ..\\data\\dataset1\\0037_color.png - error: 0.068494"
+file error: "file name: ..\\data\\dataset1\\0031_color.png - error: 0.068619"
+file error: "file name: ..\\data\\dataset1\\0035_color.png - error: 0.073441"
+file error: "file name: ..\\data\\dataset1\\0038_color.png - error: 0.077126"
+file error: "file name: ..\\data\\dataset1\\0056_color.png - error: 0.150008"
