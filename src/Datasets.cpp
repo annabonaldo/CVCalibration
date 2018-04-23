@@ -17,9 +17,9 @@ void Datasets::load()
 	settings set1 = settings(1.0,5, 6, "..\\data\\dataset1\\test.png");
 
 	datasets.insert(std::pair<string,settings>(dataset1, set1) );
-	int i = 1; 
+	int i = 0; 
 	for (; i < 10; i++)
-		datasets[dataset1].input_files.push_back("..\\data\\" + dataset1 + "\\" + "000" + to_string(i) + "_color.png");
+			datasets[dataset1].input_files.push_back("..\\data\\" + dataset1 + "\\" + "000" + to_string(i) + "_color.png");
 	for (; i < 59; i++)
 		datasets[dataset1].input_files.push_back("..\\data\\" + dataset1 + "\\" + "00" + to_string(i) + "_color.png");
 
